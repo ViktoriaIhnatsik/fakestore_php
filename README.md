@@ -1,8 +1,10 @@
 # fakestore_php
-:link: 
 
  **PHP kurs**
- >Uppgift (Denna uppgift utförs i grupper (3–4 deltagare per grupp)):
+ >Uppgift:
+ 
+ Gruppuppgift - Fakestore (databasbaserad PHP-applikation)
+ 
 - Ni måste använda Dependency injection vid utformningen av lösningen
 - Systemet skall kunna hantera produkter, kunder och beställningar
 - En kund skall kunna skapa ett konto och logga in i butiken
